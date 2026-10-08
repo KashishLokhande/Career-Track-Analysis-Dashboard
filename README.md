@@ -196,6 +196,3 @@ By focusing on slow-track learners and optimizing content delivery time, course 
 ---
 
 
-## Authors
-[![Owais Farooqui](https://img.shields.io/badge/Owais_Farooqui-0A2540?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Strik3r10)
-[![Connect](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/owais-farooqui-942281256/)
