@@ -118,7 +118,7 @@ The result of the above query is exported as `career_track_completions.csv`.
 
 ## Dashboard Preview
 
-Below is a preview of the dashboard created for the Bike Store project:
+Below is a preview of the dashboard created for the Career Track Analysis dashboard built in Tableau:
 
 ![Dashboard Preview](https://github.com/Strik3r10/Career-Analysis-SQL-Tableau-/blob/main/Dashboard.png)
 
