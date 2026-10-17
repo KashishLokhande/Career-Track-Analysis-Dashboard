@@ -182,7 +182,7 @@ If implemented, these recommendations could:
 ✔ Improve overall completion rates by **25–30%**  
 ✔ Increase learner retention in long-duration tracks  
 ✔ Strengthen brand value through higher certification numbers  
-✔ Boost revenue via demand-driven program promotion (Data Analyst)### 📈 Business Impact
+✔ Boost revenue via demand-driven program promotion (Data Analyst)
 
 
 ---
