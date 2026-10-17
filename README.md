@@ -130,7 +130,7 @@ Below is a preview of the dashboard created for the Career Track Analysis dashbo
 ---
 
 
-### ❓ Key Inisghts
+### ❓ Key Insights
 
 **Q1: Which month has the highest learner enrollment?**  
 📌 **August**, across all tracks.
