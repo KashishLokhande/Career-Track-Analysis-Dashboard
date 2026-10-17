@@ -120,7 +120,7 @@ The result of the above query is exported as `career_track_completions.csv`.
 
 Below is a preview of the dashboard created for the Career Track Analysis dashboard built in Tableau:
 
-![Dashboard Preview](https://github.com/Strik3r10/Career-Analysis-SQL-Tableau-/blob/main/Dashboard.png)
+![Dashboard Preview](Dashboard.png)
 
 ![Dashboard Preview](https://github.com/user-attachments/assets/bd9d16d6-ddd5-4f11-9d6d-2eb6a4c2b531)
 
